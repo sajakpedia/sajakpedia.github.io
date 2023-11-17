@@ -1,2 +1,2 @@
-# sajakpuisi.github.io
+# sajakpedia.github.io
 Sajak Pedia
